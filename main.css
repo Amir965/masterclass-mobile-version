@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-family: 'Poppins', sans-serif;
+}
+.huddle img{
+    margin-top: 25px;
+    margin-left: 25px;
+    height: 20px;
+}
+.huddle button {
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;
+    border-radius: 2rem;
+    padding: 2px;
+    border: 1px solid hsl(322, 100%, 66%);
+    color: hsl(322, 100%, 66%);
+    font-weight: bold;
+    width: 25%;
+    height: 2rem;
+    background-color: white;
+}
+
+
+.bc{
+    margin-top: 50px;
+    font-size: larger;
+    margin-left: 80px;
+    font-weight: bold;
+}
+.para{
+    margin-left: 70px;
+    font-size: larger;
+    margin-top: 30px;
+}
+.gs button{
+    color: white;
+    margin-top: 40px;
+    margin-left: 80px;
+    height: 55px;
+    width: 18rem;
+    border-radius: 30px;
+    background-color:  hsl(322, 100%, 66%);
+    font-size: larger;
+    border: none;
+    font-weight: bold;
+    
+}
+.image img{
+    margin-top: 7rem;
+    width: 80%;
+margin-left:2.2rem;
+}
+.icon img{
+    margin-top: 7rem;
+    margin-left: 7rem;
+}
+.icon h1{
+    margin-top: 0.8rem;
+    margin-left: 7.1rem;
+    font-size: xx-large;
+    font-weight: bolder;
+    height: 20px;
+}
+.icon div{
+    margin-top: 2rem;
+    margin-left: 7.1rem;
+    color: gray;
+}
+.message img{
+    margin-top: 7rem;
+    margin-left: 7rem;
+    height: 20px;
+}
+.message h1{
+    margin-top: 0.8rem;
+    margin-left: 7.1rem;
+    font-size: xx-large;
+    font-weight: bolder;
+    height: 20px;
+}
+.message div{
+    margin-top: 2rem;
+    margin-left: 7.1rem;
+    color: gray;
+}
+.backg img{
+    margin-top: 4rem;
+    width: 100%;
+}
+.illustration{
+    background-color: hsl(207, 100%, 98%);
+    margin-top: -4px;
+}
+.illustration img{
+    
+    margin-top: 4rem;
+    margin-left: 2.2rem;
+    width: 80%;
+    height: 50%;
+}
+.illustration h1{
+   margin-top: 5rem;
+    text-align: center;
+    background-color: hsl(207, 100%, 98%);
+}
+.illustration p{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.imag img{
+    width: 100%;
+}
+.illustrationconver img{
+    margin-top: 4rem;
+    margin-left: 2.2rem;
+    width: 80%;
+    height: 50%;
+}
+.illustrationconver h1{
+    margin-top: 3rem;
+    text-align: center;
+}
+.illustrationconver p{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.bgsectop img{
+    margin-top: 4rem;
+    width: 100%;
+}
+.youruser{
+    background-color: hsl(207, 100%, 98%);
+    margin-top: -4px;
+}
+.youruser img{
+    margin-left: 2.2rem;
+    width: 80%;
+    height: 50%;
+}
+.youruser h1{
+    background-color: hsl(207, 100%, 98%);
+    text-align: center;
+    margin-top: 3rem;
+}
+.youruser p{
+    background-color: hsl(207, 100%, 98%);
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.bgbottom img{
+    width: 100%;
+}
+.bgbottom h1{
+    margin-top: 8rem;
+    text-align: center;
+}
+.bgbottom button{
+    color: white;
+    margin-top: 40px;
+    margin-left: 80px;
+    height: 55px;
+    width: 18rem;
+    border-radius: 30px;
+    background-color: hsl(322, 55%, 55%);
+    font-size: larger;
+    margin-bottom: 8rem;   
+}
+.images img {
+    width: 100%;    
+}
+.bottom{
+    height: 30vh;
+    margin-top: -4.5rem;
+    background-color: hsl(192, 100%, 9%);
+}
+.bottom h1{
+    margin-top: 4rem;
+    margin-left: 20px;
+    color:white;
+}
+.bottom p{
+    margin-top: 1rem;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color:white;
+}
+.bottom input{
+    margin-top: 2rem;
+    height: 55px;
+    margin-left: 20px;
+    width: 23rem;
+    background-color: white;
+    border-radius: 7px;
+}
+.bottom button {
+    float: right;
+    margin-right: 30px;
+    height: 55px;
+    width: 12rem;
+    border-radius: 1rem;
+    background-color: hsl(322, 100%, 66%);
+    padding: 5px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    /* margin-bottom: 100px; */
+
+
+}
+.butt{
+    background-color: hsl(192, 100%, 9%);
+}
+.butt button{
+    margin-top: 0.8rem;
+    /* margin-left: 50px; 
+    margin-right: 20px; */
+    height: 55px;
+    width: 12rem;
+    position: relative;
+    left: 5.2cm;
+    background-color: hsl(322, 55%, 55%);
+    color: white;
+    border-radius: 7px;
+border-style: none;
+}
+.last{
+    background-color: hsl(192, 100%, 9%);
+    /* padding-bottom: 50px; */
+}
+.last img{
+    margin-top: 15rem;
+    margin-left: 20px;
+    color: white;
+}
+.last h1{
+    margin-top: -3rem;
+    float: right;
+    padding-right: 13rem;
+    color: hsl(207, 100%, 98%);
+    font-size: 2rem;
+    font-weight: bolder;
+
+}
+.last p{
+    margin-top: 0.8rem;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+.contact{
+    background-color: hsl(192, 100%, 9%); 
+    height: 60vh;
+    margin-top: -1px;
+    padding-left: 20px;
+}
+.phone {
+    float: left;
+    padding-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.email {
+    padding-top: 30px;
+    padding-right: 20px;
+    float: left;
+
+}
+
+.phn {
+    padding-top: 30px;
+    margin-bottom: 20px;
+    color:  hsl(207, 100%, 98%);
+    
+
+}
+.example {
+    float: right;
+    margin-right: 150px;
+    color:  hsl(207, 100%, 98%);
+    /* margin-top: 20px; */
+}
+
+/* .contact img{
+    margin-top: 2rem;
+    margin-left: 20px;
+
+}
+.contact div{
+    margin-top: 2rem;
+    float: right;
+    padding-right: 12rem;
+    color:hsl(207, 100%, 98%);
+}
+.email{
+    background-color: hsl(192, 100%, 9%); 
+}
+.email img{
+    margin-top: 1rem;
+    margin-left: 20px;
+}
+}
+
+.email p{
+    margin-top: 1rem;
+    float: right;
+    padding-right: 12rem;
+color: hsl(207, 100%, 98%);
+    
+}
+.logo{
+    background-color:  hsl(192, 100%, 9%);
+}
+.logo div{
+    margin-top: 2rem;
+    margin-left: 20px;
+} */
+
+.logo {
+    color: white;
+    margin-top: 80px;
+}
+
+
